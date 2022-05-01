@@ -1,2 +1,2 @@
-# Python_Projects
-The room for projects that I've done as a freelancing
+# game_learning
+Learning python by making small games
